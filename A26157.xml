@@ -1,0 +1,445 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The grand charter of Christian feasts, with the right way of keeping them in a sermon preach'd at a meeting of several of the natives and inhabitants of the county of Buckingham, in the Church of St. Mary Le-Bow, Nov. 30, 1685 / by Lewis Atterbury ...</title>
+            <author>Atterbury, Lewis, d. 1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1686</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 57 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A26157</idno>
+            <idno type="STC">Wing A4156</idno>
+            <idno type="STC">ESTC R8396</idno>
+            <idno type="EEBO-CITATION">12529733</idno>
+            <idno type="OCLC">ocm 12529733</idno>
+            <idno type="VID">62750</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A26157)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62750)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 304:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The grand charter of Christian feasts, with the right way of keeping them in a sermon preach'd at a meeting of several of the natives and inhabitants of the county of Buckingham, in the Church of St. Mary Le-Bow, Nov. 30, 1685 / by Lewis Atterbury ...</title>
+                  <author>Atterbury, Lewis, d. 1693.</author>
+               </titleStmt>
+               <extent>[5], 31 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Christopher Wilkinson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1686.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fasts and feasts --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:62750:1"/>
+            <pb facs="tcp:62750:1" rendition="simple:additions"/>
+            <p>THE GRAND CHARTER OF <hi rend="blackletterType">Chriſtian Feaſts,</hi> WITH THE Right Way of keeping them.</p>
+            <p>IN A SERMON PREACH'D AT A Meeting of ſeveral of the Na<g ref="char:EOLhyphen"/>tives and Inhabitants of the County OF BUCKINGHAM, In the Church of St. <hi>Mary Le-Bow, Nov.</hi> 30. 1685.</p>
+            <p>By <hi>Lewis Atterbury</hi> D. D. Rector of <hi>Milton</hi> in the ſaid County.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Chriſtopher Wilkinſon</hi> at the <hi>Black-Boy</hi> over againſt St. <hi>Dunſtans</hi> Church, 1686.</p>
+         </div>
+         <div type="imprimatur">
+            <pb facs="tcp:62750:2"/>
+            <p>IMPRIMATUR.</p>
+            <p>
+               <hi>Z. Iſham R.P.D. Henr. Epiſc. Lond. a Sacris.</hi> 1686.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:62750:2"/>
+            <head>TO MY HONOURED FRIENDS,
+<list>
+                  <item>The Hon<hi rend="sup">ble</hi> 
+                     <hi>Jam. Herbert,</hi>
+                  </item>
+                  <item>
+                     <hi>William Andrews</hi> Eſq;</item>
+                  <item>
+                     <hi>John Backwell</hi> Eſq;</item>
+                  <item>
+                     <hi>Owen Norton</hi> Eſq;</item>
+                  <item>
+                     <hi>Roger Price</hi> Eſq;</item>
+                  <item>
+                     <hi>Thomas Atterbury</hi> Eſq;</item>
+                  <item>Mr. <hi>John Saunders,</hi>
+                  </item>
+                  <item>Mr. <hi>Edward Carter,</hi>
+                  </item>
+                  <item>Mr. <hi>Thomas Woodcock,</hi>
+                  </item>
+                  <item>Mr. <hi>Benjamin Parrot.</hi>
+                  </item>
+               </list>STEWARDS of the <hi>Buckingham-ſhire</hi> Feaſt.</head>
+            <opener>
+               <salute>Worthy Sirs,</salute>
+            </opener>
+            <p>THE particular reſpects I have for each of You perſonally (as well as my due regard to thoſe unani<g ref="char:EOLhyphen"/>mous deſires, by which I was ſummon'd to Your Service) enti<g ref="char:EOLhyphen"/>tle You ſolely to the following
+<pb facs="tcp:62750:3"/>Sermon, which was preach'd at Your joint inſtance, and is now publiſh'd for Your ſatisfaction. Promoting Charity and mutual Society is a Deſign beyond ex<g ref="char:EOLhyphen"/>ception, and the proper Expedi<g ref="char:EOLhyphen"/>ent to heal and compoſe our pre<g ref="char:EOLhyphen"/>ſent Animoſities and Diviſions.</p>
+            <p>That your Generous Endea<g ref="char:EOLhyphen"/>vours may be ſucceſsful, and the commendable Example, You have given, effectually followed, is the conſtant deſire and daily prayer of</p>
+            <closer>
+               <salute>GENTLEMEN,</salute> 
+               <signed>
+                  <hi>Your very humble Servant,</hi> Lewis Atterbury.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:62750:3"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>1 COR. V. 8.</hi>
+                  </bibl>
+                  <p>Let us therefore keep the Feaſt, not with the old Leaven, neither with the Lea<g ref="char:EOLhyphen"/>ven of malice and wickedneſs, but with the unleavened bread of ſincerity and Truth.</p>
+               </q>
+            </epigraph>
+            <p>THE Jews, formerly Gods only People, who had the cuſtody of his Sacred Ora<g ref="char:EOLhyphen"/>cles (<hi>Rom.</hi> 3.2.) a Priviledge peculiar to them; <hi>He ſhewed his words unto Jacob, his ſtatutes and his judgments unto Iſrael. He hath not dealt ſo with any Nation, and for his judg<g ref="char:EOLhyphen"/>ments they have not known them,</hi> Pſal. 147.19, 20.</p>
+            <p>Theſe had their ſolemn Feaſts on ſeveral occaſions, and moſt of them appointed by God himſelf.</p>
+            <p>Three times in the year every Male was, by Gods eſpecial Command, to appear before him at <hi>Jeruſalem,</hi> and none to come empty handed, <hi>viz.</hi> at</p>
+            <p n="1">1. The Feaſt of unleavened Bread or the Paſſeover at the beginning of Harveſt, on the 14th of the month <hi>Niſan</hi> or <hi>Abib,</hi> anſwering to part of our <hi>March</hi> and <hi>April.</hi>
+            </p>
+            <p>This 14th was called τὸ πάσχα, the 15th ἑορτὴ τοῦ πάσχα, and the 16th δευτέρα τοῦ πάσχα, as <hi>Levit.</hi> 23.11. where,
+<pb n="2" facs="tcp:62750:4"/>what is rendred the morrow after the Sabbath, is to be underſtood the morrow after the Paſſeover. For in thoſe Feaſts, which conſiſted of many days, the firſt and laſt were term'd Sabbaths.</p>
+            <p>On this δευτέρα, the beginning of their Harveſt was offered a ſheaf of the firſt-fruits to ſanctifie all the after-fruits thoroughout the Land (<hi>Levit.</hi> 23.10.) and until this was offered, they were neither to eat nor reap the Corn.</p>
+            <p n="2">2. The Feaſt of Weeks at the end of Harveſt called <hi>Pentecoſt</hi> (becauſe the fiftieth day after the ſecond of the Paſſeover, which fifty days were the time of their Harveſt) on this Pentecoſt were offered two Wave-Loaves, <hi>Levit.</hi> 23.17. not only as an Euchariſtical ob<g ref="char:EOLhyphen"/>lation, but in token of the Harveſt finiſhed.</p>
+            <p n="3">3. The Feaſt of Tabernacles kept ſeven days, from the 15th. of the month <hi>Tiſri</hi> to the 21ſt. <hi>Deut.</hi> 16.13, 15. and <hi>Levit.</hi> 23.34. which time they dwelt in Tabernacles made of Boughs, after the manner of Ar<g ref="char:EOLhyphen"/>bours, <hi>Plutarch</hi> ſays principally of Ivy; but we find mention in the Bible of four diſtinct kinds (<hi>Levit.</hi> 23.40.) thought to be the Citrine, the Palm, the Myrtle, and the Willow. And this in memory of their Fore<g ref="char:EOLhyphen"/>fathers dwelling in Tents and Tabernacles, as is clear from <hi>Levit.</hi> 23.43. which is properly rendred Booths, (not as the Caldee Paraphraſe, the ſhadow of a Cloud, in memory of the protection of the Iſraelites by a Cloud in the Wilderneſs) or as others, to thank God for their Vintage gathered in at that time of the year.)</p>
+            <p>The Sacrifices offered were ſeventy young Bul<g ref="char:EOLhyphen"/>locks, every day alike, only differing in the number, thirteen the firſt, twelve the ſecond, eleven the third,
+<pb n="3" facs="tcp:62750:4"/>and ſo forwards, according to the Languages of the ſeventy Nations ſetting forth their coming in all un<g ref="char:EOLhyphen"/>der the Government of the Meſſias, the hope and ex<g ref="char:EOLhyphen"/>pectation of the Gentiles.</p>
+            <p>God required alſo</p>
+            <p>The New-Moons, the Expiation, the Sabbatical year, and the Jubilee.</p>
+            <p n="1">1. The Feaſt of the New-Moons, the Firſt day of the ſeventh month <hi>Tiſri, Levit.</hi> 23.24. The ſeventh month according to their Sacred, but the firſt accor<g ref="char:EOLhyphen"/>ding to their civil accompt, and may be term'd their New-years day.</p>
+            <p>In this as, in all the New Moons,</p>
+            <p n="1">1. They repaired to the Prophets, 2 <hi>Kings</hi> 4.22.</p>
+            <p n="2">2. They neither bought nor ſold, <hi>Amos</hi> 8.4.</p>
+            <p n="3">3. They had eſpecial Sacrifices (<hi>viz.</hi> two Bul<g ref="char:EOLhyphen"/>locks, a Ram, and ſeven Lambs, and one Kid of the Goats) beſides the daily Sacrifice, <hi>Numb.</hi> 28.11.15. But</p>
+            <p n="1">1. In this (beſides all the aforeſaid Sacrifices) there was offered moreover one Bullock, one Ram, ſeven Lambs, and a Goat, <hi>Numb.</hi> 29.1, 6.</p>
+            <p n="2">2. They likewiſe blowed with Trumpets, <hi>Pſal.</hi> 81.3. ſome think in memory of <hi>Iſaac</hi>'s delivery by a Ram. Or,</p>
+            <p n="2">(2,) (As St. <hi>Baſil)</hi> to mind them of the delivery of the Law, for the Trumpets made of Rams Horns, <hi>Joſh.</hi> 6.4. Or,</p>
+            <p n="3">(3.) As others of the Day of Judgment, which ſhall be with the Sound of a Trumpet, <hi>Matt.</hi> 24.31.</p>
+            <p n="2">2. The Feaſt of Expiation (commanded <hi>Levit.</hi> 23.27. <hi>Chap.</hi> 16.30. <hi>Numb.</hi> 29.7.) to be the tenth day of the month <hi>Tiſri,</hi> our <hi>September,</hi> when ſailing dange<g ref="char:EOLhyphen"/>rous, <hi>Acts</hi> 27.9.</p>
+            <pb n="4" facs="tcp:62750:5"/>
+            <p>On this the Prieſt confeſſed to God his own and the Peoples ſins, and disburthened them on the head of a Scape-goat, in imitation of which the <hi>Grecians,</hi> it's ſaid, uſed to expiate their Cities by throwing down ſome condemn'd perſons from the Precipices into the Sea, offering them to <hi>Neptune,</hi> with theſe words, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Be thou a reconciliation for us,</hi> and ſacrificing men in time of Peſtilence, which they call'd καθάρματα, both which words the Apoſtle makes uſe of 1 <hi>Cor.</hi> 4.13. as <hi>Budeus</hi> obſerves with alluſion to their Cuſtoms.</p>
+            <p n="3">3. As every ſeventh day was to be a conſtant Sab<g ref="char:EOLhyphen"/>bath, a Reſt, as the word <hi>Schabbath</hi> (from whence our Engliſh word <hi>Sabbath</hi> comes) ſignifies and is applied Synecdochically to the whole week, <hi>Luke</hi> 18.12. and to all Feſtivals, <hi>Ezek.</hi> 20.21. but uſually taken for the ſeventh day of the week which God hath ſet apart for his ſervice, call'd (if ſome other ſolemn Feaſt fell in with it) <hi>Sabbathum magnum,</hi> as <hi>John</hi> 19.36. an High-day, the Feaſt of the Paſſeover happening on it that year.</p>
+            <p>So every ſeventh year was to be a Sabbatical year, <hi>Levit.</hi> 25.8, 9.</p>
+            <p>The Sabbath-day ſignified that they themſelves were the Lord's, and therefore they ceaſed from their works to do God's, and the year ſignified that both they and their Land were the Lord's; for this year their Land was neither till'd nor manur'd, <hi>Levit.</hi> 25.4. though the owner might gather for the maintenance of himſelf and family, yet he was not to ſow or hedge his field, or lock up his Corn-yard, but let all be common; and then Creditors were to be diſcharged their debts, whence it was called the Lords Releaſe, <hi>Deut.</hi> 15.1. And this,</p>
+            <pb n="5" facs="tcp:62750:5"/>
+            <p n="1">1. To keep in a dependance on Providence.</p>
+            <p n="2">2. To mind of <hi>Adams</hi> happy eſtate in Innocency.</p>
+            <p n="3">3. To ſhadow the everlaſting Sabbath we are to expect in the Heavens, and this poſſibly the ground of Rabbi <hi>Elias</hi> his opinion, That the World would laſt ſix thouſand years, according to that of St. <hi>Peter,</hi> 2 <hi>Pet.</hi> 3.8. two thouſand <hi>inanitatis,</hi> two thouſand under the Law, and two thouſand under the Meſſias, which however curious, yet, ſpoken by a Jew, one of their Rabbies, may ſerve to convince the Jews, that Chriſt is come, and the Law ceaſed.</p>
+            <p n="4">4. Their laſt Feaſt of Divine Inſtitution was the Jubilee celebrated every fiftieth year, <hi>Levit.</hi> 25.8. after ſeven Sabbaths of years, call'd ſo, not from <hi>Jubal</hi> the firſt Inventer of Muſical Inſtruments, <hi>Gen.</hi> 4.21. but from <hi>Jobalim,</hi> the Rams Horns ſounded at that time, <hi>Levit.</hi> 25.19.</p>
+            <p n="1">1. Then (<hi>viz.</hi> on the tenth day) they releaſed Ser<g ref="char:EOLhyphen"/>vants.</p>
+            <p n="2">2. Lands reſtored to the firſt Owners who ſold them.</p>
+            <p n="3">3. A true diſtinction of Tribes preſerved by Lands reſtored, and Servants returned to their Families.</p>
+            <p n="4">4. As <hi>Grecians</hi> computed by Olympiads, <hi>Romans</hi> by <hi>Luſtra,</hi> Chriſtians by Indictions, Jews by Jubilees.</p>
+            <p n="5">5. Myſtically it notes our Jubilee by Chriſt, by whom a door of hope into Heaven, re-entry thither, and the ſound of the Goſpel.</p>
+            <p>They had alſo their <hi>Purim,</hi> or Feaſt of Lots, begin<g ref="char:EOLhyphen"/>ning the 14th. of <hi>Adar</hi> (our <hi>February</hi>) and ending the 15th. (<hi>Eſther</hi> 9.21.) inſtituted by <hi>Mordecai</hi> in remem<g ref="char:EOLhyphen"/>brance of the delivery of the Jews from <hi>Haman.</hi>
+            </p>
+            <p>And the Feaſt of Dedication, practiſed <hi>Nehem.</hi> 12.27.
+<pb n="6" facs="tcp:62750:6"/>at the ſetting up of the Wall of <hi>Jeruſalem,</hi> and made a yearly Feſtival to be kept eight days from the 25th of the month <hi>Caſleu</hi> (anſwering in part to our <hi>December</hi>) by <hi>Judas Macchabeus,</hi> 1 <hi>Maccab.</hi> 4.59. on the Conſecration of the Altar.</p>
+            <p>It is mentioned by St. <hi>John, Chap.</hi> 10.22. that it was Winter, and Chriſt then at <hi>Jeruſalem.</hi>
+            </p>
+            <p>THE PATRIARCH <hi>Abraham</hi> made a great Feaſt at the weaning of <hi>Iſaac, Gen.</hi> 21.8. and <hi>Laban</hi> at the marrying of <hi>Leah, Gen.</hi> 29.22.</p>
+            <p>The Jews made Feaſts of the Remainders of their Sacrifices, and the Chriſtians had their Love-Feaſts to ſucceed the Lords Supper, their Banquets at the publick Meetings of the Church to teſtifie and nou<g ref="char:EOLhyphen"/>riſh brotherly Love; continued near two hundred years after Chriſt, and then laid aſide becauſe of their great Abuſe, 1 <hi>Cor.</hi> 11.</p>
+            <p>There is, the Royal Preacher tells us, <hi>Eccleſ.</hi> 3.4. a time to weep, and a time to laugh, a time to mourn, and a time to dance: We are allow'd to Feaſt as well as commanded to Faſt, and God hath given us his Creatures to this end, Bread to ſtrengthen, and Wine to chear mans heart, and Oyl to make his face to ſhine, <hi>Pſal.</hi> 104.15. <hi>Solomon, Eccleſ.</hi> 3.4, 13. tells us, it is the gift of God, nay, <hi>Chap.</hi> 2.24. that there is nothing better for a man then to eat and drink and enjoy the good of all his labour: And yet there is a ſort of moroſe Brethren that are ready to cenſure our Chriſtian liberty, (<hi>Gal.</hi> 2.4.) and put a bad conſtru<g ref="char:EOLhyphen"/>ction on our laudable and well warranted Meeting, <hi>Quorſum haec perditio?</hi> Wherefore, they ſay, is all this waſte? There are men of this Generation like thoſe our Saviour ſpeaks of, <hi>Luke</hi> 7.32. that if we pipe
+<pb n="7" facs="tcp:62750:6"/>will not dance, if we mourn will not weep, will make us offenders, be our deportment what it will, never ſo moderate, never ſo well governed.</p>
+            <p>
+               <hi>John</hi> the Baptiſt came neither eating bread, nor drin<g ref="char:EOLhyphen"/>king wine, and yet they ſaid he had a Devil. The Son of man came eating and drinking, and he is cenſured as a gluttonous man, a friend of Publicans and ſinners; but Wiſdom is juſtified of her Children.</p>
+            <p>We leave theſe Cynicks to ſurfeit on their folly, and, whiles they dig in the Earth, and hide their Talent, without either comfort in it, or improvement of it, (<hi>Matt.</hi> 25.) Our cruiſe of oil ſhall not fail, nor our barrel of meal waſte, though we thus ſpend of the one, and uſe the other, 2 <hi>Kings</hi> 17.4.</p>
+            <p>
+               <hi>Therefore let us keep the Feaſt.</hi> The Feaſt here meant by St. <hi>Paul</hi> is the Paſſeover, the Jews ſecond Sacra<g ref="char:EOLhyphen"/>ment, of which we meet with three Acceptions.</p>
+            <p n="1">1. It is taken for that yearly Solemnity which was celebrated on the 14th day of <hi>Niſan</hi> or <hi>Abib,</hi> our <hi>March,</hi> and call'd ſimply the Paſſeover, or the Paſſeover of the Lamb, becauſe on that day towards the evening (or <hi>inter duas veſperas,</hi> as <hi>Numb.</hi> 28.4. (<hi>viz. declinationis &amp; occaſus ſolis,</hi> not <hi>veſperam ſolis &amp; luminis</hi>) the Iſrae<g ref="char:EOLhyphen"/>lites were commanded according to their Families to kill and roaſt a Lamb, and eat it in their private houſes.</p>
+            <p n="2">2. It ſignifies that yearly Feſtivity which was cele<g ref="char:EOLhyphen"/>brated on the 15th of <hi>Niſan,</hi> and may be called the Paſſeover of the Sheep or Bullock, <hi>Deut.</hi> 16.2. or the Feaſt of the Paſſeover, as <hi>Numb.</hi> 28.16, 17. to<g ref="char:EOLhyphen"/>wards which Feaſt it was that <hi>Joſiah</hi> gave ſuch a mul<g ref="char:EOLhyphen"/>titude of Lambs, Kids, Sheep and Bullocks.</p>
+            <p n="3">3. It is taken for the whole Solemnity, beginning
+<pb n="8" facs="tcp:62750:7"/>the 14th, and ending the 21ſt. of the ſame month, <hi>Luke</hi> 22.1. <hi>Now the Feaſt of unleavened bread drew nigh, which is called Paſſeover:</hi> ſo that in this Acception it con<g ref="char:EOLhyphen"/>tain'd the Feaſt of unleavened Bread alſo. But to ſpeak properly, the Feaſt of unleavened Bread was a diſtinct Feaſt from the Paſſeover, For</p>
+            <p n="1">1. The Paſſeover was to be kept on the 14th day of the firſt month at even, on which they were (as is confeſs'd) enjoined to eat unleavened Bread with the Lamb; but the Feaſt of unleavened Bread began not till the morrow following, <hi>viz.</hi> the 15th, and laſted ſeven days, of which only the firſt and laſt were Ho<g ref="char:EOLhyphen"/>ly Convocations, in which they might do no ſervile work, <hi>Levit.</hi> 23.5, 6, 7, 8.</p>
+            <p n="2">2. The Paſſeover in the Age following its Inſtitu<g ref="char:EOLhyphen"/>tion, might not be kill'd and eaten in any other place, ſave only where the Lord did chuſe to place his Name, which afterwards was at <hi>Jeruſalem.</hi> But the Feaſt of unleavened Bread the Hebrews thought themſelves bound to keep in every place, where-ever they dwelt, if they could not be at <hi>Jeruſalem;</hi> and the eating of it, they ſay, depended not on the eating of the Paſs<g ref="char:EOLhyphen"/>over, but was a Commandment by it ſelf: and both agree with the occaſion of our preſent meeting, if we either conſider
+<list>
+                  <item>1. The Original. Or,</item>
+                  <item>2. The Manner of its Obſervation.</item>
+               </list>
+            </p>
+            <p n="1">1. The Original, Gods miraculous Preſervation and Deliverance of the Iſraelites from Egyptian Bondage and Darkneſs, and the deſtroying Angel his paſſing over their Houſes, and ſparing them and their Chil<g ref="char:EOLhyphen"/>dren when he ſmote the firſt-born of the Egyptians, (<hi>Exod.</hi> 12.30.) and drowned <hi>Pharaoh</hi> and his Hoſt
+<pb n="9" facs="tcp:62750:7"/>in the Red Sea, whiles the Iſraelites paſſed thorough it as by dry Land, (as <hi>Heb.</hi> 11.29.) where both are mentioned. For the word <hi>Paſſeover</hi> comes not, as ſome of the Latine Fathers, (<hi>viz. Tertullian</hi> and <hi>Am<g ref="char:EOLhyphen"/>broſe</hi>) from the Greek word πάσχω to ſuffer, becauſe Chriſts Sufferings and Paſſions are now celebrated at this time, but from the Hebrew word פסח <hi>tranſitus</hi> or <hi>tranſitio,</hi> a paſſing over: which Etymology we have given by God himſelf, <hi>Exod.</hi> 12.27. And hath not God paſſed over us? Are not ſeveral of us, as Brands plucked out of thoſe flames, which reduced the greater part of this large City to Aſhes? Were not we ſpared, whiles the Peſtilence that walketh in darkneſs, and Deſtruction, that walketh at noon-day, ſwept away others?</p>
+            <p>The Plague and the Sword deſtroyed their thou<g ref="char:EOLhyphen"/>ſands and ten thouſands, and yet we are alive to praiſe God, as at this day.</p>
+            <p>God hath viſited ſeveral places with blaſting and mildew, and rain hath been withholden. We have lately felt unuſually ſevere Winters, and had unſeaſona<g ref="char:EOLhyphen"/>ble Summers, of which Viols of Gods wrath we have but taſted, whiles others have drunk more deeply.</p>
+            <p>It is not long ſince we were threatned with ſtormy Winds and Tempeſts from North and Weſt, and theſe Euroclydons deſcended on ſeveral places with confu<g ref="char:EOLhyphen"/>ſed noiſe, and many garments were rolled in blood, [<hi>Iſa.</hi> 9.5.) whiles we, and other Inhabitants of the County we belong to, felt none of theſe Hurricanes, heard only the ſound of it, as a going on the top of the Mulberry-trees, were permitted to ſtand ſtill and ſee the Salvation of the Lord.</p>
+            <p>After Wars and Rumours of Wars; former ſad con<g ref="char:EOLhyphen"/>fuſions,
+<pb n="10" facs="tcp:62750:8"/>and late menacing diſturbances, we renew this Solemnity upon Gods reſtoring to us a Publick Peace, our Ancient Regal Government in State, and the Apo<g ref="char:EOLhyphen"/>ſtolical, Epiſcopal Government in the Church. And thus the Originals of the Feaſts agree.</p>
+            <p n="2">2. There is alſo a ſuitableneſs in the manner of the Obſervation.</p>
+            <p>
+               <hi>It is not to be kept with old Leaven,</hi> &amp;c. Then which I know no better direction for the right uſing and improving this and all other Solemnities of this Na<g ref="char:EOLhyphen"/>ture.</p>
+            <p>Leaven is properly that which ſecretly and ſpeedily ſoures the whole lump of dough, altering the Nature of it. Sometimes it is uſed in a good ſenſe,</p>
+            <p n="1">1. To denote the Kingdom or Church of Chriſt on Earth, increaſing ſecretly and by degrees both in number of Perſons and Graces of the Spirit, <hi>Matt.</hi> 13.33.</p>
+            <p n="2">2. The Doctrine of the Goſpel, the Word preach<g ref="char:EOLhyphen"/>ed, which altereth a mans Nature, firſt turning his heart, and changing his inward, and then reforming his outward man.</p>
+            <p>Sometimes (as here) Leaven is taken in an ill ſenſe, and ſo uſed,</p>
+            <p n="1">1. To repreſent the unſound Doctrine of Here<g ref="char:EOLhyphen"/>ticks, corrupting the ſweetneſs of heavenly Truths with their falſe Gloſſes: called alſo Hypocriſie, be<g ref="char:EOLhyphen"/>cauſe ſuch Doctrines are falſe, deceitful, and impious, and make their Fautors and Fomentors Hypocrites, <hi>Matt.</hi> 16.6. <hi>Luke</hi> 12.1.</p>
+            <p n="2">2. Corrupt, vicious perſons, which with their com<g ref="char:EOLhyphen"/>pany and communication infect others, 1 <hi>Cor.</hi> 15.33.</p>
+            <p>Old Leaven is the ſame with the old man, <hi>Rom.</hi> 6.6.
+<pb n="11" facs="tcp:62750:8"/>
+               <hi>Fermentum in maſsâ, innata vitioſitas,</hi> Original ſin, with the depravation, the whole naughtineſs of our ſinful Nature with its ſinful effects and bitter fruits, whatevet it is that hath a faculty of corrupting others, whether it be Doctrine or Example; it follows</p>
+            <p>The Leaven of Malice and Wickedneſs, which is exegetical, an illuſtration of the former, κακίας καὶ πινηρίας <hi>malitiae &amp; verſutiae,</hi> craft added to wickedneſs, <hi>malus eſt qui male, nequam qui cum dolo agit;</hi> hence the De<g ref="char:EOLhyphen"/>vil is called ſubtle, πονηρὸς, as ſome from πένομας, <hi>ago, faceſſo, nobis faceſſit negotium,</hi> 1 <hi>John</hi> 2.12. <hi>Eph.</hi> 6.16. he hath his wiles and ſtratagems, his cunning crafts.</p>
+            <p>
+               <hi>Of ſincerity and Truth,</hi> an expreſſion taken from counterfeit Wares, ſuch as need the falſe light of a dark Shop to put them off. There muſt be Purity or Ho<g ref="char:EOLhyphen"/>lineſs, plain dealing, and ſingleneſs of heart.</p>
+            <p>The Chriſtians have their Paſſeover; ἑορτάζωμεν, <hi>feſtum agitemus,</hi> let us keep the Feaſt, not typically, only for a day, as at preſent, or for ſeven days, as the Jews the Paſſeover, but ſpiritually throughout the whole courſe of our lives.</p>
+            <p>The Ceremony of the Jews putting away Leaven out of their houſes, during the time of the Feaſt, ſigni<g ref="char:EOLhyphen"/>fies, that from the firſt day we believe in Chriſt tho<g ref="char:EOLhyphen"/>rough the whole courſe of our lives, we ſhould purge our ſelves from evil Doctrine and corrupt Manners.</p>
+            <p>The ſpiritual eſtate of Chriſtians is the true accom<g ref="char:EOLhyphen"/>pliſhment of the Jewiſh Paſſeover; nay every Con<g ref="char:EOLhyphen"/>gregation ſhould put away thoſe that are ſcandalous, as 1 <hi>Cor.</hi> 5.5. applied by the Apoſtle.</p>
+            <p>Alſo the Ceremony of the Leprofie,</p>
+            <p n="1">1. If doubtful, ſhut up till certain, <hi>Levit.</hi> 13.44.</p>
+            <p n="2">2. If clear, dwelling alone without the Camp,
+<pb n="12" facs="tcp:62750:9"/>figures lively the Church-Cenſures.</p>
+            <p n="1">1. Suſpenſion, whereby men are ſeparated from ſome Holy things, until their perverſneſs appears, 2 <hi>Tim.</hi> 3.9.</p>
+            <p n="2">2. Excommunication, 1 <hi>Cor.</hi> 5.11, 13. <hi>Matt.</hi> 18.17.</p>
+            <p>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>in Lege Moſis eſt abſtinere ab omni opere, ut Deo ſacra ſiant,</hi> to reſt from bodily labours; <hi>In myſtico ſenſu, ita perpetuò Dèo ſervire, ut omnia opera ſint ſacri<g ref="char:EOLhyphen"/>ficia, Iſa.</hi> 66.23. to ſerve God devoutly; and thus <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>Feſtum, nihil aliud eſt quàm ea agere quae oportet fieri. A good conſcience is a continual feaſt,</hi> Prov, 15.15. in a word to feaſt aright is <hi>Epheſ.</hi> 4.22, 23.</p>
+            <p>The two Birds uſed in the cleanſing, <hi>Levit.</hi> 14.5, 6; 49, 50. ſignifie that neither Chriſts Manhood with<g ref="char:EOLhyphen"/>out his Godhead, nor his Godhead without his Man<g ref="char:EOLhyphen"/>hood could purge ſin, <hi>John</hi> 6.53, 63.</p>
+            <p>To make our Feaſt regular, we muſt take in the Context.</p>
+            <p>Purge out the old Leaven, that you may be a new Lump, as ye are unleavened.</p>
+            <p>The Apoſtle St. <hi>Paul</hi> thought very well of the <hi>Co<g ref="char:EOLhyphen"/>rinthians,</hi> that they were unleavened, right for the main. It is not <hi>eſſe debetis per profeſſionem,</hi> you ſhould be ſo; but you deſire and take care to be ſo: <hi>Cavetis ab omnibus per quae corrumpi mores ſolent,</hi> and yet calls on them to purge themſelves. There are remainders of ſin in the holieſt and eminenteſt Chriſtians, in ma<g ref="char:EOLhyphen"/>ny things, <hi>Jam.</hi> 3.2. and <hi>Eccleſ.</hi> 7.20. Give me leave then (without offence) to recommend the ſame duty to you, of whom I am perſwaded the beſt things, and ſuch as accompany Salvation, <hi>Heb.</hi> 6.9.</p>
+            <p>The Jews were very exact, there was</p>
+            <p n="1">1. <hi>Expurgatio Fermenti,</hi> cleanſing all Veſſels and
+<pb n="13" facs="tcp:62750:9"/>Houſhold-ſtuff two or three days before.</p>
+            <p n="2">2. <hi>Inquiſitio Fermenti,</hi> ſearching every corner, to a Mouſe-hole with a Wax-candle the night before the Paſſeover, till the fourth hour after Sun-riſing, as <hi>Buxtorfe.</hi>
+            </p>
+            <p n="3">3. <hi>Exterminatio</hi> or <hi>Conflagratio</hi> from the fourth hour to the ſixth.</p>
+            <p n="4">4. <hi>Execratio,</hi> of all ſeen or not ſeen, cleanſed or not cleanſed; nor are the beſt Chriſtians leſs concer<g ref="char:EOLhyphen"/>ned to look about them, leſt there be any root of bit<g ref="char:EOLhyphen"/>terneſs ſpringing up to their trouble, whereby them<g ref="char:EOLhyphen"/>ſelves and others may be defiled, <hi>Heb.</hi> 12.15.</p>
+            <p>We often change our bread and our water, and, however ſound and wholeſom the Country may be we come from, we are in danger of infection from the different Airs we breathe in, or may receive Conta<g ref="char:EOLhyphen"/>gion from ſome of thoſe many perſons we converſe with, and a little Leaven leaveneth the whole Lump.</p>
+            <p>God made man upright, but he hath ſought forth many Inventions. Good Wheat was laid in at firſt; but, whiles men ſlept, the Enemy ſow'd Tares, <hi>Matt.</hi> 13.27.</p>
+            <p>When there was no King in <hi>Iſrael,</hi> every man did what was good in his own ſight.</p>
+            <p>That Anarchy and thoſe Confuſions, under which this Nation of ours hath groan'd for ſeveral years, have given too much opportunity to the evil Willers of our <hi>Sion</hi> to unſettle, divide, diſtract, and corrupt ſeveral of its Members. And therefore Firſt,</p>
+            <p n="1">1. We are to beware of the <hi>Leaven of Atheiſm.</hi>
+            </p>
+            <p>It's ſcarce credible in ſuch a Land as ours, amongſt us who have had the Noon-day-light of the Goſpel, as well as all other advantages for the improvement of
+<pb n="14" facs="tcp:62750:10"/>our natural Light and acquired Knowledge, that any ſhould dare to queſtion ſo clear and undeniable a Truth: the Heavens and the Earth may be aſtoniſhed at this; <hi>The Heavens declare the Glory of God, and the Firmament ſhews his handy work,</hi> Pſal. 19.1. <hi>The in<g ref="char:EOLhyphen"/>viſible things of God from the Creation of the world are clearly ſeen, being underſtood by the things that are made, even his eternal Power and Godhead, ſo that they are without excuſe,</hi> Rom. 1.20.</p>
+            <p>We have in our ſelves a demonſtration, <hi>quaelibet herba Denm.</hi> the moſt minute Creature ſpeaks a Deity, much more the frame of man, who is fearfully and wonderfully made, <hi>Pſal.</hi> 139.14.</p>
+            <p>And yet, beſides practical Atheiſts (which all ſin<g ref="char:EOLhyphen"/>ners are (<hi>Pſal.</hi> 36.2.) there are in our days to be met with thoſe that ſet their mouths againſt Heaven, and their tongue walketh thorough the Earth; <hi>How,</hi> ſay they, <hi>doth God know? and is there knowledge in the moſt High?</hi> Pſal. 73.9, 11.</p>
+            <p>What <hi>Luther</hi> abhorr'd himſelf for thinking, we have Monſters belch out; <hi>Horribilia de Deo, terribi<g ref="char:EOLhyphen"/>lia de Fide. Davids</hi> Fool or wicked man was modeſt in reſpect of the Atheiſts of our days, he whiſpered to himſelf, <hi>ſaid in his heart, There is no God,</hi> but theſe avow it in their Principles.</p>
+            <p>All ſuch are indeed without hope and without the true God to ſerve him and depend upon him, but are ſlaves to a falſe one, the Devil, call'd the God of this World, the Prince of the power of the Air, the Spirit that works in the children of diſobedience, and hath blinded their minds, leſt the light of the glorious Go<g ref="char:EOLhyphen"/>ſpel of Chriſt, who is the image of God ſhould ſhine in unto them; Such ſhall find God hereafter in his Ju<g ref="char:EOLhyphen"/>ſtice,
+<pb n="15" facs="tcp:62750:10"/>when there will be no place for Repentance.</p>
+            <p>It will be then in vain to call to the rocks and mountains to fall on them, and hide them from the wrath of the Lamb: it will be bootleſs to plead they are the workmanſhip of his hands. They are a peo<g ref="char:EOLhyphen"/>ple of no underſtanding; thoſe that live and die in ſuch an open defiance of God and their duty, he that made them will not have mercy on them, and he that formed them will ſhew them no favour, <hi>Iſa.</hi> 27.11.</p>
+            <p>When men of ſuch Principles fall in our way, we muſt do more then ſhun them our ſelves, we muſt be zealous in ſo great a matter, withſtand them to the face, <hi>Gal.</hi> 2.11. write a croſs on their doors, and ſet a mark on their perſons, that others may avoid them.</p>
+            <p>If the Leproſie was in an houſe, none were to ſleep in it; and if in garments, they were to be burnt with fire.</p>
+            <p n="2">2. <hi>The Leaven of Rebellion,</hi> and 'tis no wonder, when men have caſt off the fear of God, they ſhould prove falſe to their Prince. Tears and Prayers are the right Weapons of the Church.</p>
+            <p>That thundring Legion that ſtorm'd Heaven with their Prayers, and roſe not from their knees, until God gave them rain; laid down their Arms, and offered their lives to death, rather then they would oppoſe their Prince, or deny the True God, and worſhip Idols.</p>
+            <p>And it is the glory of our Religion, and the Church of <hi>England</hi> in an eſpecial manner, that it gives not the leaſt countenance to Diſloyalty, and admits of no colour or pretence of reſiſtance whatſo<g ref="char:EOLhyphen"/>ever.</p>
+            <p>The Scriptures we owne are as plain and full as
+<pb n="16" facs="tcp:62750:11"/>words can expreſs, every Soul is to be ſubject to the higher Powers for Gods ſake, and for Conſcience ſake, and thoſe that reſiſt, reſiſt the Ordinance of God, and ſhall receive damnation to themſelves, <hi>Rom.</hi> 13.1, 2. <hi>Tit.</hi> 3.1. and 2 <hi>Pet.</hi> 2.13.</p>
+            <p>
+               <hi>Davids</hi> heart ſmote him for the cutting off the lap of <hi>Sauls</hi> garment, and we are adviſed, in prudence, as well as confcience not to curſe the King, no not in our thoughts; for God hath the Sacred perſons of Kings ſo much under his protection, that he often goeth out of the ordinary way of his Providence, and works a Miracle rather then Treachery againſt them ſhould preſper, <hi>Eccleſ.</hi> 10 20. <hi>A bird of the air ſhall carry the voice, and that which hath wings ſhall tell the matter.</hi>
+            </p>
+            <p>Theſe filthy Dreamers that deſpiſe Dominion, and ſpeak evil of Dignities, they are ſpots in all Feaſts as well as thoſe of Charity, <hi>Jude</hi> 12, 13. <hi>Clouds they are without water, carried about with wind, trees whoſe fruit is withered, twice dead, plucked up by the roots, ra<g ref="char:EOLhyphen"/>ging waves of the ſea, foaming out their own ſhame, wan<g ref="char:EOLhyphen"/>dring ſtars, to whom is reſerved the blackneſs of dark<g ref="char:EOLhyphen"/>noſs for ever.</hi>
+            </p>
+            <p n="3">3. The <hi>Leaven</hi> of <hi>Herod,</hi> or the Leaven of Faction, Fox like Subtleties, or contagious Principles.</p>
+            <p>
+               <hi>Herod</hi> was a ſubtle Fox, as our Saviour calls him, <hi>Go tell that Fox,</hi> a Slave to Ambition and Luſt, and a Creature to <hi>Coeſar,</hi> on whoſe pleaſure he held his Dignity. He heard <hi>John Baptiſt,</hi> and pretended to hearken to him [<hi>Mark</hi> 6.20.) but ſacrificed him to the jealouſie of <hi>Herodias.</hi> He deſired to ſee Chriſt; poſſibly to ſatisfie his curioſity, or to have been magnified by ſome Miracle he hoped to have done him, or rather to diſpatch him, as we find it ſuggeſted
+<pb n="17" facs="tcp:62750:11"/>to our Saviour, <hi>Herod ſeeks to kill thee,</hi> a Coppy <hi>He<g ref="char:EOLhyphen"/>rod</hi> his Predeceſſor had ſet him. He tamper'd with the <hi>Magi (Matt.</hi> 2.) that he might find out him that was born King of the Jews, on a pretence to worſhip him; but, how he would have made him a Deity, ap<g ref="char:EOLhyphen"/>pears by his butchering afterwards, for his ſake about fourteen thouſand, all the children of that age about two years old and under in <hi>Bethlehem.</hi>
+            </p>
+            <p>The <hi>Herodians</hi> were Paraſites in their Courts, that varied their Religion with them, made one of the <hi>He<g ref="char:EOLhyphen"/>rods</hi> a God, and kept his Birth-day, heard our Savi<g ref="char:EOLhyphen"/>our, and propoſed enſnaring queſtions to entrap him.</p>
+            <p>And ſuch are our Seekers in Diſcipline, Abetters of Faction, thoſe who fit up Religion after mens Hu<g ref="char:EOLhyphen"/>mours to ſerve a turn, mould up Gods Worſhip with <hi>Herods</hi> and <hi>Jeroboams</hi> ends, and watch for our halt<g ref="char:EOLhyphen"/>ing.</p>
+            <p>
+               <hi>Herod</hi> would be exalted, arrays himſelf in coſtly Apparel, gets into the Throne, courts the Applauſe of the Rabble, and is pleaſed to be the Idol of the People, though he dies their Martyr, and is eaten up of worms, <hi>Acts</hi> 12.20. Like <hi>Saul</hi> to <hi>Samuel,</hi> come what will, yet honour me before the Elders of <hi>Iſrael.</hi>
+            </p>
+            <p>
+               <hi>Jeroboam</hi> muſt have his Conventicles, and ſets up his Calfes in <hi>Dan</hi> and <hi>Bethel;</hi> makes a rent in the Church to patch up the ſlaws of his Title to the ten Tribes.</p>
+            <p>
+               <hi>Korah, Dathan</hi> and <hi>Abiram</hi> were too proud to obey <hi>Moſes</hi> and <hi>Aaron,</hi> and would ſet up Independency un<g ref="char:EOLhyphen"/>der a pretence of zeal for God and the Priviledges of the People. Hear their Canting, <hi>All the Lords people are holy,</hi> Numb. 16.3.</p>
+            <p>
+               <hi>Diotrephes</hi> loves the preheminence, and makes ſuch
+<pb n="18" facs="tcp:62750:12"/>a Schiſm, that St. <hi>John</hi> cannot be received, though a beloved Diſciple, a Biſhop, and an eminent Apoſtle, 3 <hi>John</hi> 9.</p>
+            <p>The Inſtances of Schiſm and Faction amongſt us have been too many for me either to recal or recite. We have had attempts on our Doctrine, our Diſci<g ref="char:EOLhyphen"/>pline, our Worſhip, all ſlandered and miſrepreſented by men of different Intereſts and Opinions, the Word of God miſerably wreſted by ſome, and excepted a<g ref="char:EOLhyphen"/>gainſt by others, traduced as a dead letter, ſupplanted by Traditions, and ſubordinated to Enthuſiaſms; our Sacraments have been queſtioned, their Original diſ<g ref="char:EOLhyphen"/>puted, and their number and way of adminiſtration impeach'd, our Churches have been prophaned, our Liturgy decry'd, Epiſcopacy ſtruck at (and for ſome years removed) root and branch. The very function of the Miniſtry proclaimed uſeleſs, and their mainte<g ref="char:EOLhyphen"/>nance burthenſom, a yoke intolerable; though no man pays of his own amongſt us, unleſs his piety ex<g ref="char:EOLhyphen"/>cite him to be a Benefactor.</p>
+            <p>As <hi>Jannes</hi> and <hi>Jambres</hi> withſtood <hi>Moſes,</hi> ſo men of corrupt minds, and Reprobate concerning the Faith, do ſtill reſiſt the Truth, rent the ſeamleſs Coat of Chriſt, and diſturb the Peace and Government of the Church. And all this with an Hoſanna, The Lord be glorified. A ſolemn pretence to do God ſervice, <hi>Iſa,</hi> 66.5. <hi>John</hi> 16.2.</p>
+            <p>It is very ſad that Religion ſhould be abuſed to ſerve mens corrupt and ſiniſter deſigns, but no more than foretold, and continually practiſed by ill men, as well as by the Devil, who, upon this occaſion can be content to appear in <hi>Samuels</hi> Mantle, (1 <hi>Sam.</hi> 28.14.) and transform himſelf into an Angel of Light.</p>
+            <pb n="19" facs="tcp:62750:12"/>
+            <p>This I can ſay boldly, Had it been as eaſie to gra<g ref="char:EOLhyphen"/>tifie mens Intereſts, and ſatisfie their Humours, as it is to anſwer their Arguments, the breaches in our Church and State had been all cloſed long e're now.</p>
+            <p>
+               <hi>God hath ſmitten the great houſe with breaches, and the little houſe with clefts,</hi> Amos 6.11. which divi<g ref="char:EOLhyphen"/>ſions of our <hi>Reuben</hi> call for ſad thoughts, great ſear<g ref="char:EOLhyphen"/>chings of heart; but this is our comfort, the Devil hath his Limits, and God who hath made the ſand a Boundary to the waves of the Sea by a perpetual De<g ref="char:EOLhyphen"/>cree, ſo, that though they roar and lift up themſelves, they cannot paſs over it, he hath limited his Inſtru<g ref="char:EOLhyphen"/>ments, theſe Children of the Devil, and Enemies of all Righteouſneſs, that will not ceaſe to pervert the ways of God, <hi>Acts</hi> 13.10. when their Ephah is full, and their ſins ripe, they ſhall proceed no further, but their folly ſhall be manifeſt to all men, as that of <hi>Jan<g ref="char:EOLhyphen"/>nes</hi> and <hi>Jambres</hi> alſo was, (2 <hi>Tim.</hi> 3.8.) or as it fared with <hi>Elymas,</hi> who was ſtrucken with blindneſs, God ſhall ſend them ſtrong deluſions, and give them up to ſeared Conſciences, they ſhall ſplit themſelves on the rocks of Superſtition and Atheiſm, or looſe themſelves in a Labyrinth, the mazes and miſts of Errour, and at laſt ſeek about for ſome to lead them, <hi>Acts</hi> 13.11.</p>
+            <p>God hath given us many ſad Examples; <hi>Let him that thinks he ſtands, take heed leſt he fall,</hi> 2 Theſſ. 2.10.</p>
+            <p>For the Glory of God and Honour of our Country, let us perſevere in Religion and Loyalty.</p>
+            <p n="4">4. <hi>The Leaven of the Sadducees,</hi> or the Leaven of Doctrine, <hi>Matt.</hi> 16.5.6.</p>
+            <p>The Doctrine of the Phariſees had its Leaven, but the Sadducees were were moſt tainted.</p>
+            <pb n="20" facs="tcp:62750:13"/>
+            <p>The Sadducees call'd in queſtion Angels and Spirits, denied rewards or puniſhments after this life, held the Soul was annihilated at death, believed not the Re<g ref="char:EOLhyphen"/>ſurrection, maintain'd free will and liberty of prophe<g ref="char:EOLhyphen"/>ſying, allow'd of no Scripture but the Pentateuch, the five Books of <hi>Moſes, (Matt.</hi> 22.23. <hi>Mark</hi> 12.18. <hi>Luke</hi> 20.27. <hi>Acts</hi> 4.1.) and therefore our Saviour convinceth them out of <hi>Exodus, Chap.</hi> 3.6. <hi>Matt.</hi> 22.32.</p>
+            <p>
+               <hi>Hymeneus</hi> and <hi>Philetus,</hi> who ſay the Reſurrection is already paſt, <hi>viz.</hi> that there is no Reſurrection but the ſpiritual, that of the Soul from ſin, or the renew<g ref="char:EOLhyphen"/>ing of the ſtate of the World under the Goſpel. Theſe and all other profane and vain bablings are to be ſhun'd, 2 <hi>Tim.</hi> 2 16. for they will increaſe to more un<g ref="char:EOLhyphen"/>godlineſs, and their words will eat as doth a canker.</p>
+            <p>The <hi>Athenians</hi> ſpent their time in hearing and tell<g ref="char:EOLhyphen"/>ing ſome new thing, <hi>Acts</hi> 17.21. and it is the Chara<g ref="char:EOLhyphen"/>cter of our Novelliſts, that they have itching ears, and heap to themſelves Teachers, which argues they are carnal, cannot endure ſound Doctrine, and have not the Spirit, as the Apoſtle determines, 2 <hi>Tim.</hi> 4.3.</p>
+            <p>For our parts, we are to continue in the good old way, confirm our ſelves in the Truths we have heard and been aſſured of, hold faſt the form of ſound words, and contend for the Doctrine delivered to the Saints.</p>
+            <p>
+               <hi>If any man teach otherwiſe, and conſents not to wholeſom words, even the words of our Lord Jeſus Chriſt, and the Doctrine which is according to godlineſs, he is proud, knowing nothing, but doting about queſtions and ſtrifes of words, whereof cometh envy, ſtrife, railings, evil ſurmiſings, perverſe diſputings of men of corrupt minds, and deſtitute of the truth, ſuppoſing that gain is
+<pb n="21" facs="tcp:62750:13"/>godlineſs: from</hi> all <hi>ſuch,</hi> St. <hi>Paul</hi> tells us, <hi>we muſt with<g ref="char:EOLhyphen"/>draw our ſelves,</hi> 1 Tim. 6.3, 4, 5.</p>
+            <p n="5">5. <hi>The Leaven of the Phariſees,</hi> or Hypocriſie. The Phariſees were full of corrupt Gloſſes, addicted much to Superſtition, preſcribed Phylacteries, ty'd them<g ref="char:EOLhyphen"/>ſelves to Phraſes and Obſervances, and little elſe, were all for leaves and no fruit, and <hi>taught for Doctrines the Commandments of men,</hi> Matt. 15.9. But, <hi>Wo to him that ſaith to the wood, Awake; to the dumb ſtone, Ariſe, it ſhall teach: behold, it is laid over with gold and ſilver, and there is no breath at all in the midſt of it,</hi> Hab. 2.19.</p>
+            <p>The Phariſee had the Hypocrite (leaven) in his face, to make him look ſour, that men might ſee he had faſted.</p>
+            <p>Rabbi in his tongue and rancour in his heart, they would ſpeak Chriſt fair, when they came to intrap him, and give him with <hi>Judas</hi> a kiſs, and an hail Ma<g ref="char:EOLhyphen"/>ſter, at the ſame time they betrayed him; they are all <hi>Gabbatha,</hi> whited Sepulchres, beautiful without, but <hi>Golgotha,</hi> full of rottenneſs, ſculls and dead mens bones within, pay Tithes of Mint and Cummin, and neglect the greater matters of the Law, compaſs Sea and Land to make their Proſelytes, ſhut up the King<g ref="char:EOLhyphen"/>dom of Heaven againſt men, neither enter themſelves, nor ſuffer others, make long Prayers for a pretence, and devour widows houſes, cleanſe the outſide of the cup, but ſtuff the inſide with extortion and exceſs.</p>
+            <p>Our Religion teacheth us another Leſſon, that bo<g ref="char:EOLhyphen"/>dily exerciſe profiteth little, and that we ſhould exer<g ref="char:EOLhyphen"/>ciſe our ſelves to real godlineſs, which hath the pro<g ref="char:EOLhyphen"/>miſes of this life and that which is to come, 1 <hi>Tim.</hi> 4.8. God is a Spirit, calls for truth in the inward parts,
+<pb n="22" facs="tcp:62750:14"/>and will be worſhipped in Spirit and in Truth, <hi>John</hi> 4.24. Man judgeth by the outward appearance, but God looketh to the heart, 1 <hi>Sam.</hi> 16.5.</p>
+            <p>From thoſe who have but a form of godlineſs, and deny the power, we are to turn away, 2 <hi>Tim.</hi> 3.3.</p>
+            <p n="6">6. <hi>The Leaven of Covetouſneſs and Oppreſſion.</hi> We muſt not curſe the deaf, or lay a ſtumbling block be<g ref="char:EOLhyphen"/>fore the blind, we are to injure none; but 'tis barba<g ref="char:EOLhyphen"/>rous to wrong thoſe that cannot help themſelves, or know not when we hurt them: this is to turn judg<g ref="char:EOLhyphen"/>ment into gall, and righteouſneſs into wormwood.</p>
+            <p>We are to oppreſs none but the Man of Sin, and covet only the beſt gifts.</p>
+            <p>When the noiſe of Arms was ſo loud, that the voice of the Law could not be heard, <hi>Demetrius</hi> and his Crafts-men, ſuch who ſerved not God, but the <hi>Diana</hi> of their Intereſt, carved to themſelves largely out of other mens Eſtates, catch as catch might, 'twas a levelling Age, the Biſhops Lands were made Lay-Fees, and the Tithes of the Church were in great danger of being gathered into a common Treaſury, the better to ſupport the Publick Faith: Encroach<g ref="char:EOLhyphen"/>ments were made generally, and moſt on the Rights of the Church, which, having now had the continuance of many years, it is not eaſie to find them out, and 'tis harder to recover them; Sacriledge is grown rife, and of ſo potent an Intereſt, that he had need be a man of courage that dares arraign it for a ſin. It was an obſervation of an eminently wiſe man, the Oracle of his Age, That though Truth can never be juſtly blamed, yet he that followeth it too cloſe at the heels, may have his teeth ſtruck out, not only be forc'd to looſe his hold, but made uncapable of faſtening ever after.</p>
+            <pb n="23" facs="tcp:62750:14"/>
+            <p>But if men will not conſider, God will remember. There is a wo reſerved for him that coveteth an evil covetouſneſs to his houſe; <hi>For the ſtone ſhall cry out of the wall, and the beam out of the timber ſhall anſwer it,</hi> Hab. 2.</p>
+            <p>One Acre of ill gotten Land entails a curſe upon a whole Eſtate, and ſome mens houſes (as the Learned <hi>Spelman</hi> obſerves and proves) might have continued longer in their Names and Families, if they had not ſet their neſts on fire by coals thus ſnatch'd from the Altar. May <hi>Nehemiahs</hi> reſolution be taken up by every one of us, <hi>That we will not forget the houſe of our God,</hi> Nehem. 10.39.</p>
+            <p>
+               <hi>As the Partridge ſitteth on eggs and hatcheth them not, ſo he that getteth riches and not by right, ſhall leave them in the midſt of his days, and at his end ſhall be a fool,</hi> Jer. 17.11.</p>
+            <p>When our Saviour became <hi>Zacheus</hi> his Gueſt, and brought his welcome with him, Salvation to his houſe (<hi>Luke</hi> 19.5.) he received him joyfully, and, that he might purge himſelf from the Leaven of oppreſſion, he makes a fourfold reſtitution to all that he had wrong'd by any falſe accuſation.</p>
+            <p>Whoever they are that at any time meet with a Babyloniſh garment, or <hi>Acans</hi> wedge amongſt their own or others ſtuff, it ſhould be their care to ſee them reſtored to their proper owners and uſes, and (where that cannot be done) return'd to God and his poor. It is the bleſſing of God makes rich.</p>
+            <p>
+               <hi>Whatſoever we would that men ſhould do unto us, that ſhould we do unto them, for this is the Law and the Prophets,</hi> Matt. 7.12.</p>
+            <p n="7">7. Farther, <hi>The Leaven of corrupt Society:</hi> Men ei<g ref="char:EOLhyphen"/>ther
+<pb n="24" facs="tcp:62750:15"/>unſound in their Principles, or vicious and irre<g ref="char:EOLhyphen"/>gular in their Practices; evil Doctrine is againſt Truth, evil lives are againſt walking in the Truth, and evil company leads to both. No man can touch pitch, but he muſt be defiled, <hi>Evil communications corrupt good manners,</hi> 1 Cor. 15.33.</p>
+            <p>We are (if poſſibly) to live peaceably with all men, and may hold a commerce with men of different Re<g ref="char:EOLhyphen"/>ligions, promiſe to do them good and no hurt, and be ready to do them kindneſſes, <hi>Gen.</hi> 26.29. but we muſt not ſo help the ungodly, as to love them which hate God, 2 <hi>Chron.</hi> 19.2. A league of amity is not to be held with the Sons of <hi>Belial,</hi> men of deſperate Principles and Lives are not to be taken into our bo<g ref="char:EOLhyphen"/>ſoms; If we will <hi>fear God and the King,</hi> we muſt not meddle with thoſe that are given to change, with ſuch we are to have no familiar converſe, no not to eat, 1 <hi>Cor.</hi> 5.11.</p>
+            <p>Our eyes are to be on the faithful in the land, and our delight in the juſt, <hi>Pſal.</hi> 16.5.</p>
+            <p>He that abideth in a perfect way may abide with us.</p>
+            <p>Thoſe who thus walk with wiſe men ſhall be wiſe; but a companion of Fools ſhall be deſtroy'd.</p>
+            <p n="8">8. Laſtly, <hi>The Leaven of Malice and Wickedneſs:</hi> Malice, like Leaven, makes men ſwell one againſt a<g ref="char:EOLhyphen"/>nother, envying and ſtrife breed confuſion and every evil work, and come not from above, but are earthly, ſenſual and devilliſh, <hi>Jam.</hi> 3.</p>
+            <p>By Nature ſince the Fall, man is of a wrathful, re<g ref="char:EOLhyphen"/>vengeful, contentious diſpoſition, we are, as ravenous beaſts, apt to bite and devour each other. It was an evil Character the Prophet gave of that people, <hi>Jer.</hi> 9.4.
+<pb n="25" facs="tcp:62750:15"/>that every brother would utterly ſupplant, and eve<g ref="char:EOLhyphen"/>ry neighbour walk with ſlanders, and I wiſh there were no ſuch thing amongſt us; Our late unnatural Wars have altered very much the eſtate of this Nation, and made deep impreſſions upon our very Natures.</p>
+            <p>Differences in Judgments have bred coldneſs of Af<g ref="char:EOLhyphen"/>fections, and our Civil Jars have wrought ſtrangeneſs in Relations. We have ſeen (what our Saviour fore<g ref="char:EOLhyphen"/>told) diviſions in Families, as well as in the Nation, five in one houſe divided, three againſt two, and two againſt three, <hi>Matt.</hi> 10.35. <hi>The ſon againſt the father, and the daughter againſt the mother, and the danghter-in-law againſt the mother-in-law, a mans foes often thoſe of his own houſe,</hi> no ſafety in relying on either Neigh<g ref="char:EOLhyphen"/>bour or Brother; nay men were not ſecure, unleſs they kept the door of their lips from her that lay in their boſoms, <hi>Mic.</hi> 7.16.</p>
+            <p>And this the product, not of Religion, but Corru<g ref="char:EOLhyphen"/>ption. The wiſdom that comes from above is, firſt pure, then peaceable, gentle, and eaſie to be intreat<g ref="char:EOLhyphen"/>ed, full of good fruit, without partiality, and without hypocriſie.</p>
+            <p>By the Spirit mans Nature is altered, <hi>Iſa.</hi> 11.6. <hi>The wolf ſhall dwell with the lamb, and the leopard lye down with the kid, the calf, and the young lion, and the fatling together, and a little child ſhall lead them.</hi>
+            </p>
+            <p>When <hi>Jeruſalem</hi> was the glory of the whole world, it was a City compact together, and the Citizens all of one mind, <hi>Pſal.</hi> 122.3.</p>
+            <p>Where Unity is wanting, men can have neither comfort nor ſafety to live by each other; the quick<g ref="char:EOLhyphen"/>er mens parts, the more cunning they are to out<g ref="char:EOLhyphen"/>reach and undermine; and the greater their power,
+<pb n="26" facs="tcp:62750:16"/>the more mighty they are to oppreſs.</p>
+            <p>'Tis a ſecurity to this Iſland that it lies by it ſelf, divided from other Nations, call'd by one a Great Beaſt, that cannot be deſtroy'd, without being acceſſa<g ref="char:EOLhyphen"/>ry to its own ruine; and it's our great danger to be divided amongſt our ſelves; two are better then one, and a triple cord is not eaſily broken.</p>
+            <p>Our buſineſs this day is Union and Society, ſuch Meetings as theſe are of a reconciling Nature. 'Tis high time to lay aſide all invidious names, all unkind diſtinctions.</p>
+            <p>Let not any ſuch Shiboleths be ſo much as named amongſt us.</p>
+            <p>
+               <hi>All bitterneſs, wrath, anger, clamour, and evil ſpeak<g ref="char:EOLhyphen"/>ing muſt be put away from us with all malice, and we are to be kind to one another, tender-hearted, forgiving one another, as God for Chriſts ſake hath forgiven us,</hi> Eph. 4.32, 33.</p>
+            <p>We are all Engliſh-men, we are Country-men, there muſt be no difference, no ſtrangeneſs amongſt us, for we are Brethren; to go higher, we are Chri<g ref="char:EOLhyphen"/>ſtians, <hi>We have one Lord, one Faith, one Baptiſm, one God and Father of all, and ſhould keep the <g ref="char:V">Ʋ</g>nity of the Spirit in the bond of Peace,</hi> Eph. 3.4, 5. This is to be a new Lump, all of a piece.</p>
+            <p>In Heaven where the bleſſed Angels and Spirits of men made perfect (the Church Triumphant) abide, there is a ſweet and conſtant agreement; and in the pureſt times of the Church Militant, the Believers <hi>were all of one heart and one mind,</hi> Acts 4.32. nay, 'tis the mark whereby our Saviour would have his Diſciples known from the reſt of the world, and from Hypocrites, their <hi>loving one another,</hi> John 13.35.
+<pb n="27" facs="tcp:62750:16"/>And 'twas practiſed in the primitive Times to the glory of the Goſpel, and aſtoniſhment of their Ad<g ref="char:EOLhyphen"/>verſaries, <hi>See</hi> (ſay they) <hi>how the Chriſtians love one another.</hi>
+            </p>
+            <p>From henceforth let me beg, that this may be the only contention amongſt us, who ſhall be the ſince<g ref="char:EOLhyphen"/>reſt Chriſtians, the moſt Loyal Subjects, the trueſt Friends, and the moſt uſeful Country-men.</p>
+            <p>
+               <hi>Let as many of us as be perfect, be thus minded, and if any be otherwiſe minded, God ſhall reveal this unto them.</hi>
+            </p>
+            <p>And thus we are duly qualify'd to make a Feaſt.</p>
+            <p>
+               <hi>Epulemur;</hi> So ſome expound, what others render <hi>celebremus, Keep a Feaſt,</hi> and both proper, the word reacheth both, we cannot keep a Feaſt, unleſs we make it. A Feaſt implies a Banquet, proviſion more then ordinary upon ſome ſolemn occaſion, to remember ſome great Mercy of God, and withal to chear the heart. When God beſtows ſignal Mercies, he expects ſuitable acknowledgments, <hi>Pſal.</hi> 50.15.</p>
+            <p>And great cauſe we have to Feaſt, to bleſs God, and rejoyce before him.</p>
+            <p>As Chriſtians, ſo from the Argument in the Con<g ref="char:EOLhyphen"/>text, <hi>Chriſt our Paſſeover is ſacrificed for us.</hi> The Birth of Chriſt was <hi>Tidings of great joy to all people,</hi> Luke 2.10. and was celebrated with the Halelujahs of the heavenly Hoſt. His Incarnation was a Myſtery hid from Ages, which the Angels deſired to pry in<g ref="char:EOLhyphen"/>to; but, if he had not been bruiſed for our iniquities, we had not been healed from them, <hi>Iſa</hi> 53.5. It is our ſecurity and rejoycing that he hath ſuffered, and <hi>is riſen again for our Juſtification,</hi> Rom. 8.34.</p>
+            <p>As Engliſh-men (beſides thoſe many National deli<g ref="char:EOLhyphen"/>verances
+<pb n="28" facs="tcp:62750:17"/>before mentioned) we are to praiſe Him for giving us our Lot in the Garden of <hi>Eden,</hi> the Para<g ref="char:EOLhyphen"/>diſe of the World, the Nurſery of Arts and Learning, a <hi>Goſhen</hi> for light and knowledge, not only of the Volumes of Nature, but of the Books of God; en<g ref="char:EOLhyphen"/>rich'd with all thoſe Bleſſings that may make our lives comfortable here, and us happy hereafter.</p>
+            <p>For our particular Country, we may ſay our Lines are fallen in a pleaſant place; whether we view our Chiltern or our Vale, conſider Paſtime, Health, or Profit, we have a goodly Heritage, well watered, as the Garden of the Lord: Our dwelling <hi>is the Fat<g ref="char:EOLhyphen"/>neſs of the Earth, and the Dew of Heaven from above,</hi> Gen. 27.39. We have a <hi>Benjamins</hi> ſhare in thoſe many Bleſſings, which God hath heaped upon this Nation.</p>
+            <p>It is not enough to bring forth the beſt Robes, the coſtly Ring, to kill the fatted Calf, and to eat and drink, and to be merry, and to give our Fragments to the Poor, (<hi>Luke</hi> 15.21.) though all this be proper at ſuch a time as this; This is not all, the principal part is behind, <hi>Pſal.</hi> 50.13. we muſt <hi>offer unto God thankſ<g ref="char:EOLhyphen"/>giving, and pay our vows to the moſt High: This ſhall pleaſe God better then an whole Hecatomb of Oxen that have horns and hoofs,</hi> Pſal. 69.31.</p>
+            <p>We are not to keep,</p>
+            <p n="1">1. An <hi>Epicures</hi> Feaſt, <hi>To eat and drink, for to mor<g ref="char:EOLhyphen"/>row we ſhall dye;</hi> eat only for eatings ſake: <hi>Indulgere Genio,</hi> to indulge our ſelves, and gratifie our palates, this is to make a God of our Belly, and to glory in our ſhame, ſuch are <hi>Enemies to the Croſs of Chriſt,</hi> Phil. 3.19. <hi>Job</hi> ſent for his Sons, and ſanctified them continually after Feaſting, <hi>Job</hi> 1. <hi>And whether we eat
+<pb n="29" facs="tcp:62750:17"/>or drink, or whatever we do, we are to do all to the glo<g ref="char:EOLhyphen"/>ry of God,</hi> 1 Cor. 10.31. and to this end we muſt not</p>
+            <p n="2">2. Keep a Feaſt, like <hi>Nabal,</hi> who held a Feaſt in his houſe, like the Feaſt of a King, yet had nothing but a churliſh Anſwer to ſpare, not ſo much as a Good word to give.</p>
+            <p>Whiles we drink Wine in Bowls, we muſt not for<g ref="char:EOLhyphen"/>get the Afflictions of <hi>Joſeph.</hi>
+            </p>
+            <p>
+               <hi>Nehemiahs</hi> Rule was, <hi>They ſhould eat the fat, and drink the ſweet, and ſend portions to them for whom nothing is prepared,</hi> Nehem. 8.10.</p>
+            <p>And the Royal Pſalmiſt, at his Feaſt, upon the bring<g ref="char:EOLhyphen"/>ing back the Ark, dealt to every one of <hi>Iſrael,</hi> both man and woman, to every one a Loaf of bread, a good piece of Fleſh, and a Flagon of wine, 1 <hi>Chron.</hi> 16.3.</p>
+            <p>I know theſe good Examples were not well fol<g ref="char:EOLhyphen"/>lowed, ſometimes large Portions were ſent to the disfurniſhing of the Table, and incommoding the proper Gueſts, and ſome ſtay'd away to receive greater ſhares, then they ſhould have had, if pre<g ref="char:EOLhyphen"/>ſent, which leſſen'd the Appearance; and theſe were the occaſions of the <hi>Laodicean</hi> Canon to regulate this Abuſe, and alter the Cuſtom.</p>
+            <p>I need not either queſtion or direct your Charity. The Wiſdom of this Age hath found out a better Method to gather and diſpoſe (with Judgment) of what is given to good and charitable Uſes; yet, ſee<g ref="char:EOLhyphen"/>ing you have thought fit to call me hither, I ſhall take the freedom (in a word or two more) to be your Remembrancer.</p>
+            <p>No man is born for himſelf, but for God and for his Country, and each of us ſhould ſo live, that we may bring Glory to one, and be of Uſe in the other.
+<pb n="30" facs="tcp:62750:18"/>It's below a reaſonable Creature to cumber the Earth, and bring forth no fruit, <hi>Telluris inutile pondus.</hi>
+            </p>
+            <p>
+               <hi>Davids</hi> queſtion is to be every good mans care, to be <hi>rendring to God for all his benefits,</hi> Pſal. 116.11.</p>
+            <p>We vindicate our Religion, and convince the World that we are more then Solifidians, when we ſhew our Faith by our Works; To be barren in them argues Leanneſs in our Souls, <hi>Pſal.</hi> 106.15.</p>
+            <p>Our Country is fertile, our Soil fat and rich, we credit that, as well as ſhew our own tenderneſs, when our Compaſſions are enlarged.</p>
+            <p>
+               <hi>Zacheus</hi> gave half his Goods to the Poor, and the Primitive Chriſtians ſold their Houſes and Poſſeſſions, and put all into the Apoſtles hands for the uſe of the Church. Every Sabbatical year, and at the Ju<g ref="char:EOLhyphen"/>bilee, the Jews releaſed Servants, cancelled Mort<g ref="char:EOLhyphen"/>gages, and diſcharged all Debtors. God requires no ſuch great things from us, yet expects from eve<g ref="char:EOLhyphen"/>ry one ſome Return; Every one hath his Talent.</p>
+            <p>Thoſe that are not able to build and endow Chur<g ref="char:EOLhyphen"/>ches, or erect Hoſpitals, may repair the living Tem<g ref="char:EOLhyphen"/>ples of the Holy Ghoſt, give <hi>Dorcas</hi> her Coats, put ſomewhat into the <hi>Conclave Silentum,</hi> the poor mans Cheſt. The Widows Mites are kindly taken, thoſe that cannot give themſelves, may perſwade, and di<g ref="char:EOLhyphen"/>rect to others that are more able; <hi>If there be firſt a willing mind,</hi> ſomething may be done, <hi>and it is acce<g ref="char:EOLhyphen"/>pted according to what a man hath, and not according to what a man hath not,</hi> 2 Cor. 8.12.</p>
+            <p>He that giveth to the Poor lendeth to the Lord, and what we may ſpare cannot be put into a ſurer hand or better way of improvement, for he will ſurely pay it again, to ſome thirty, to ſome ſixty, to
+<pb n="31" facs="tcp:62750:18"/>ſome an hundred-fold; what we do to Chriſt's Bre<g ref="char:EOLhyphen"/>thren, He takes as done unto himſelf, and will not ſuffer a cup of cold water given to a Diſciple in the name of a Diſciple, to looſe its reward.</p>
+            <p>No man ever loſt by thus ſerving God: He that tel<g ref="char:EOLhyphen"/>leth our wandrings, and puts our Tears into his Bot<g ref="char:EOLhyphen"/>tle, keeps a Book of Remembrance for our Prayers and Almſdeeds. To do good and to communicate, therefore, I beſeech you, forget not, for with ſuch Sacrifices God is well pleaſed.</p>
+            <q>Now to God the Father, God the Son, and God the Holy Ghoſt, be Glory, Honour, and Power hence and for ever,
+<bibl>
+                  <hi>Rev. 7.12.</hi>
+               </bibl>
+            </q>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
